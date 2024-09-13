@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/minderapp/SnapshotSafeView.git", :tag => "master" }
+  spec.source       = { :git => "https://github.com/SaadAhmadSaddiqui/SnapshotSafeView.git", :tag => "master" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
